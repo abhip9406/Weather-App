@@ -1,12 +1,12 @@
-# Weather App 🌦️
+# Weather App
 
 A clean and responsive **Weather App** built with **React**, **Vite**, and **Material UI**. It fetches live weather data using the **OpenWeatherMap API** and displays temperature, humidity, and weather conditions for any city.
 
 ## 🔗 Live Demo
 
-👉 [View Live on Render](https://weather-app-wmsx.onrender.com)  
+[View Live on Render](https://weather-app-wmsx.onrender.com)  
 
-## ✨ Features
+## Features
 
 - Real-time weather updates  
 - Search any city worldwide  
@@ -15,5 +15,5 @@ A clean and responsive **Weather App** built with **React**, **Vite**, and **Mat
 - Powered by OpenWeatherMap API  
 - Built with React + Vite
 
-## 📁 Folder Structure
+## Folder Structure
 
