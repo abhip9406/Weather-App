@@ -8,9 +8,29 @@
 }
 
 .weather-card {
-  backdrop-filter: blur(10px);
-  background: rgba(255, 255, 255, 0.2);
-  border-radius: 20px;
-  padding: 20px;
-  box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+  width: 320px;
+  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.25) !important;
+  border-radius: 20px !important;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.2) !important;
+  overflow: hidden;
+  transition: 0.3s;
+}
+
+.weather-card:hover {
+  transform: scale(1.05);
+}
+
+.media {
+  height: 180px;
+}
+
+.city {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.desc {
+  margin-top: 10px;
+  font-style: italic;
 }
